@@ -1,0 +1,42 @@
+﻿#viewbox1 {
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+    border: solid 1px #000;
+    position: relative;
+}
+#viewbox2 {
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+    border: solid 1px #000;
+    position: relative;
+}
+#viewbox3 {
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+    border: solid 1px #000;
+    position: relative;
+}
+
+    #slot .wrapper {
+        position: relative;
+    }
+
+    #slot ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    #slot li {
+        display: block;
+        width: 300px;
+        height: 200px;
+        text-align: center;
+    }
+#slot {
+    display:inline-flex;
+}
+
